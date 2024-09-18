@@ -11,5 +11,3 @@ Abaixo estão as paginas desenvolvidas no powerBI.
 ![Detalhe Vendas](https://github.com/user-attachments/assets/58f04d9b-d914-45df-b97a-5ca35fe388cd)
 
 
-## Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações. Você pode adaptar as funcionalidades e detalhes técnicos conforme o que realmente está implementado no projeto.
